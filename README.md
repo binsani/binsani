@@ -1,28 +1,35 @@
-# Hi there, I'm Salim Sani Zakariyya 👋
+<h1 align="center">Hi 👋, I'm Salim Sani</h1>
 
-## Aspiring SCADA & Industrial Automation Engineer
+<h3 align="center">
+Web Developer • Aspiring SCADA Engineer • Industrial Automation • ICS Cybersecurity
+</h3>
 
-I'm a Software Developer transitioning into **SCADA Systems, Industrial Automation, and Industrial Control Systems (ICS)**.
+---
 
-My software engineering background gives me strong experience in databases, networking, and system deployment. I'm now applying those skills to Operational Technology (OT), industrial automation, and critical infrastructure.
+## 🚀 About Me
+
+I'm a Web Developer based in Abuja, Nigeria, currently transitioning into the world of **SCADA Systems**, **Industrial Automation**, **Operational Technology (OT)**, and **Industrial Control Systems (ICS) Cybersecurity**.
+
+My Web Developemtn  background provides a solid foundation in backend development, databases, networking, APIs, and Windows Server administration. I'm now applying those skills to designing, securing, and supporting industrial control systems.
 
 ---
 
 ## 🎯 Career Focus
 
-- SCADA Systems
-- PLC Programming
-- Human Machine Interface (HMI)
-- Industrial Automation
-- Industrial Networking
-- ICS Cybersecurity
-- Operational Technology (OT)
+- ⚙️ SCADA Systems
+- 🏭 Industrial Automation
+- 🔌 PLC Programming
+- 🖥️ HMI Development
+- 🌐 Industrial Networking
+- 🔒 ICS Cybersecurity
+- 🛰️ Operational Technology (OT)
 
 ---
 
 ## 🌱 Currently Learning
 
-- PLC Programming
+- Siemens PLC
+- Allen-Bradley PLC
 - Ignition SCADA
 - Siemens WinCC
 - FactoryTalk View
@@ -34,64 +41,71 @@ My software engineering background gives me strong experience in databases, netw
 
 ---
 
-## 💻 Technical Background
+## 💻 Technical Skills
+
+### Software Development
 
 - PHP
 - Laravel
 - JavaScript
 - MySQL
-- Git & GitHub
+- Git
+- GitHub
 - REST APIs
+
+### Infrastructure
+
 - Windows Server
 - IIS
 - Linux
+- Networking
+
+### Industrial Technologies (Learning)
+
+- PLC Programming
+- SCADA
+- HMI
+- Modbus
+- OPC UA
+- ICS Security
 
 ---
 
-## 🚀 Current Goals
+## 📚 2026 Learning Roadmap
 
-- Build practical SCADA labs
-- Learn industrial communication protocols
-- Develop PLC programming projects
-- Study ICS security best practices
-- Contribute to open-source industrial automation projects
-
----
-
-## 📂 Planned Repositories
-
-- SCADA-Learning
-- PLC-Basics
-- Industrial-Networking
-- ICS-Cybersecurity
-- Modbus-Lab
-- Ignition-SCADA
-- WinCC-Projects
-- FactoryTalk-Learning
+- [ ] PLC Fundamentals
+- [ ] Ladder Logic
+- [ ] Ignition SCADA
+- [ ] WinCC
+- [ ] FactoryTalk
+- [ ] Industrial Networking
+- [ ] Modbus TCP
+- [ ] OPC UA
+- [ ] ICS Cybersecurity
+- [ ] Build a Home SCADA Lab
 
 ---
 
-## 📫 Connect with Me
+## 📂 Featured Projects
+
+Coming soon...
+
+- SCADA Learning Lab
+- PLC Programming Exercises
+- Industrial Network Simulations
+- ICS Cybersecurity Notes
+- Ignition SCADA Projects
+
+---
+
+## 📫 Connect With Me
 
 - GitHub: https://github.com/binsani
-- X (Twitter): *(Add your X profile URL here)*
-- LinkedIn: *(Add your LinkedIn URL here)*
+- X: *(Add your X profile here)*
+- LinkedIn: *(Add your LinkedIn profile here)*
 
 ---
 
-> *"Learning today to build the secure industrial systems of tomorrow."*## Hi there 👋
+## 💡 Quote
 
-<!--
-**binsani/binsani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> *"Building secure industrial systems through continuous learning and practical engineering."*
